@@ -11,6 +11,10 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":
 }
 ```
 
+```shell
+curl -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' 127.0.0.1:8545
+```
+
 ##
 Once upon a time you dressed so fine
 Threw the bums a dime in your prime, didn't you?
