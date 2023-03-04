@@ -1,5 +1,16 @@
 # Like a Rolling Stone
 
+```js
+// Request
+curl -X POST --data '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":67}'
+// Result
+{
+  "id":67,
+  "jsonrpc":"2.0",
+  "result":true
+}
+```
+
 ##
 Once upon a time you dressed so fine
 Threw the bums a dime in your prime, didn't you?
