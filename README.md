@@ -4,6 +4,7 @@ author: "Bob Dyan"
 date: "3-4-2023"
 ---
 
+
 ```js
 // Request
 curl -X POST --data '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":67}'
