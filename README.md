@@ -15,7 +15,7 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"net_listening","params":[],"id":
 curl -H "Content-Type: application/json" -X POST --data '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' 127.0.0.1:8545
 ```
 
-##
+```js
 Once upon a time you dressed so fine
 Threw the bums a dime in your prime, didn't you?
 People call say 'beware doll, you're bound to fall'
@@ -26,12 +26,10 @@ Now you don't talk so loud
 Now you don't seem so proud
 About having to be scrounging your next meal
 
-##
 How does it feel, how does it feel?
 To be without a home
 Like a complete unknown, like a rolling stone
 
-##
 Ahh you've gone to the finest schools, alright Miss Lonely
 But you know you only used to get juiced in it
 Nobody's ever taught you how to live out on the street
@@ -42,12 +40,10 @@ He's not selling any alibis
 As you stare into the vacuum of his eyes
 And say do you want to make a deal?
 
-##
 How does it feel, how does it feel?
 To be on your own, with no direction home
 A complete unknown, like a rolling stone
 
-##
 Ah you never turned around to see the frowns
 On the jugglers and the clowns when they all did tricks for you
 You never understood that it ain't no good
@@ -58,12 +54,10 @@ Ain't it hard when you discovered that
 He really wasn't where it's at
 After he took from you everything he could steal
 
-##
 How does it feel, how does it feel?
 To be on your own, with no direction home
 Like a complete unknown, like a rolling stone
 
-##
 Ahh princess on a steeple and all the pretty people
 They're all drinking, thinking that they've got it made
 Exchanging all precious gifts
@@ -74,7 +68,7 @@ Go to him he calls you, you can't refuse
 When you ain't got nothing, you got nothing to lose
 You're invisible now, you've got no secrets to conceal
 
-##
 How does it feel, ah how does it feel?
 To be on your own, with no direction home
 Like a complete unknown, like a rolling stone
+```
