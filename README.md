@@ -1,8 +1,5 @@
----
-title: "Like a Rolling Stone"
-author: "Bob Dyan"
-date: "3-4-2023"
----
+
+# Like a Rolling Stone
 
 
 ```js
